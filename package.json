@@ -1,0 +1,10 @@
+{
+  "name": "university-course-management-system",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Web Programming Assignment 3",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
